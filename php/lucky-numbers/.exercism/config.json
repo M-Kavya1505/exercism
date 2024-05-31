@@ -1,0 +1,20 @@
+{
+  "authors": [
+    "mk-mxp"
+  ],
+  "files": {
+    "solution": [
+      "LuckyNumbers.php"
+    ],
+    "test": [
+      "LuckyNumbersTest.php"
+    ],
+    "exemplar": [
+      ".meta/exemplar.php"
+    ]
+  },
+  "forked_from": [
+    "javascript/lucky-numbers"
+  ],
+  "blurb": "Practice type juggling while helping your friend Kojo with his website."
+}
